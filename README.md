@@ -35,6 +35,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a ter controle com seus hábitos.
 
+- [Visite o projeto online](https://rafs11.github.io/Habits/)
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/bkQPqsKpcJpy7jWY7zUBSF/Habits-(e)-(Community)?node-id=75%3A128&t=ROMVaKVVNXgsx3Lp-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
